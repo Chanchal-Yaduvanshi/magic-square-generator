@@ -22,9 +22,13 @@ Magic number = n(n^2 +1)/2
 
 Example - 
 Magic square of size 3
+
 2 7 6
+
 9 5 1
+
 4 3 8
+
 
 The sum of each row/column/diagonal is: 15.0
 
